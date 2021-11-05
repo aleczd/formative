@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(53, 55, 58);
+}
+h1.title{
+    font: 80px Garamond, serif;
+    text-align: center;
+    color:rgb(63, 173, 137);
+}
+h2{
+    font: 30px Garamond, serif;
+    text-align: left;
+    color:rgb(101, 207, 172);
+}
+p{
+    font: 18px Times New Roman, serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+}
+#Adropdown{
+    background-color:rgb(77, 84, 95);
+}
+.dropdown-item:hover{
+    background-color:rgb(112, 129, 121);
+}
+#myList{
+    list-style:lower-roman;
+    font: 18px Garamond, serif;
+    color:rgb(255, 255, 255)
+}
+#myList2{
+    font: 18px Garamond, serif;
+    color:rgb(255, 255, 255)
+}
+#indent{
+    margin-left:20px;
+}
+#central{
+    text-align:center;
+}
+.container{
+    margin-left: 80px;
+}
+#petition{
+    font: 18px Times New Roman, serif;
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
